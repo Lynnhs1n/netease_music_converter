@@ -10,7 +10,7 @@ build/
 eggs/
 *.whl
 *.manifest
-*.spec
+*.spec.bak
 
 # Virtual environments
 .venv/
@@ -41,3 +41,6 @@ desktop.ini
 *.mflac
 *.mgg
 output/
+build/
+dist/
+*.spec.bak
